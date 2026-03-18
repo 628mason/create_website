@@ -1,6 +1,6 @@
 # GitHub Template Repository
 
-Welcome to the GitHub template repository for the **courses (CS3361, CS3365)**! This template serves as a starting point for your first assignment of creating and deploying your portfolio. Follow the instructions below to download, customize, and push your work to your own GitHub repository.
+  the GitHub template repository for the **courses (CS3361, CS3365)**! This template serves as a  pot for your first assignment of creating and deploying your portfolio. Follow tuctions below to download, customize, and push your work to your own GitHub repository.
 
 ---
 
@@ -55,28 +55,4 @@ git init
 git add .
 
 # Commit your changes
-git commit -m "Initial commit"
-
-# Set the main branch
-git branch -M main
-
-# Add the remote repository
-git remote add origin <your-repo-url>
-
-# Push changes to GitHub
-git push -u origin main
-```
-
----
-
-## 📝 Submission Instructions  
-Once you have pushed your work to GitHub, submit the repository link as per the instructions provided in the course.
-
----
-
-### ⚖️ License  
-This project template is licensed under the [MIT License](LICENSE).
-
----
-
-Celebrate and enjoy your coding experience! 🚀
+g
